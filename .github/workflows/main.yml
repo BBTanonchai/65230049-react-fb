@@ -39,6 +39,3 @@ jobs:
           args: deploy --only hosting
         env:
           FIREBASE_TOKEN: ${{ secrets.FIREBASE_TOKEN }}
-
-yml_firebase_deploy.txt
-กำลังแสดง yml_firebase_deploy.txt
